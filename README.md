@@ -1,0 +1,4 @@
+# app_with_updater
+### 一个开源的app版本更新生成器
+#### 注意：
+版本更新的地址文件，内容必须是test.html
